@@ -1,0 +1,1045 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bracteola Aurea or, Filings of gold drawn from the life and death of that lovely child, Mris. Joanna Reynell who died the 26. of January, 1662. Worthy of observation and imitation. By E.R. esquire.</title>
+            <author>Reynell, Edward, 1612-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57115</idno>
+            <idno type="STC">Wing R1217A</idno>
+            <idno type="STC">ESTC R222105</idno>
+            <idno type="EEBO-CITATION">99833335</idno>
+            <idno type="PROQUEST">99833335</idno>
+            <idno type="VID">37811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37811)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bracteola Aurea or, Filings of gold drawn from the life and death of that lovely child, Mris. Joanna Reynell who died the 26. of January, 1662. Worthy of observation and imitation. By E.R. esquire.</title>
+                  <author>Reynell, Edward, 1612-1663.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Ratcliffe for Abel Roper at the Sun over against St. Dunstons-Church in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.R. = Edward Reynell.</note>
+                  <note>Copy trimmed with loss of text; tightly bound.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reynell, Joanna, d. 1662 --  Early works to 1800.</term>
+               <term>Grief --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37811:1"/>
+            <pb facs="tcp:37811:1" rendition="simple:additions"/>
+            <p>
+               <hi>BRACTEOLA A<g ref="char:V">Ʋ</g>RE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> OR, FILINGS OF GOLD DRAWN From the Life and Death of that LOVELY CHILD, MRIS. <hi>JOANNA REYNELL</hi> Who died the 26. of <hi>January,</hi> 1662.</p>
+            <p>Worthy of <hi>Obſervation</hi> and <hi>Imitation.</hi>
+            </p>
+            <p>By <hi>E. R.</hi> Eſquire.</p>
+            <q>
+               <bibl>
+                  <hi>MAT. 19.13.</hi>
+               </bibl> And Jeſus ſaid, ſuffer little Children to come unto me: for of ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the Kingdom of Heaven.</q>
+            <q>
+               <bibl>
+                  <hi>Juſt. Mart. Epiſt. ad Zenam.</hi>
+               </bibl> Women ought to take care of their Children, for of ſuch is the Kingdom of God.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Ratcliffe</hi> for <hi>Abel Roper</hi> at the <hi>Sun</hi> over againſt St. <hi>Dunſtons</hi>-Church in <hi>Fleet-ſtreet.</hi> 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37811:2" rendition="simple:additions"/>
+            <pb facs="tcp:37811:2"/>
+            <head>THE EPISTLE TO THE READER</head>
+            <p>THough theſe few <hi>Leafs</hi> ſeem not to invite <hi>Epiſtle;</hi> yet [in the midſt of the variety <hi>Tempers,</hi> they are like to meet with] i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not unlikely, but that ſome [who flatter their or Opinion, and extort the utmoſt of their <hi>belief</hi> their own ſenſe, and who adventure to <hi>read</hi> and inte<g ref="char:EOLhyphen"/>pret their own <hi>meaning</hi> with cenſorious and prejudic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>conjectures</hi>] may caſt an <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cterical eye</hi> upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>meanneſs</hi> of this <hi>Subject:</hi> I thought fit to acquai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thee (courteous <hi>Reader</hi>) that, as the <hi>veſſels</hi> appoint<g ref="char:EOLhyphen"/>ed for the <hi>uſe</hi> of the <hi>Temple,</hi> were not all of one <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſs,</hi> [though none unuſeful] ſo God, who <hi>deſpiſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not the day of ſmall things]</hi> judgeth thoſe things <hi>Greateſt,</hi> which are moſt <hi>Gracious,</hi> and is ofte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pleaſed [as to lodge <hi>Pearls</hi> in <hi>Cockles,</hi> ſo] to bestow the <hi>Treaſures</hi> of heaven<g ref="char:EOLhyphen"/>ly <hi>knowledge</hi> on the meaneſt perſons. And [as Stars that have least <hi>Circu<g ref="char:EOLhyphen"/>it</hi>
+               <note n="*" place="margin">A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tas eſt pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fecta, u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tus eſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+               <pb facs="tcp:37811:3"/>are nearest the <hi>Pole</hi>] ſo, out of <hi>the mouth of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bes and Sucklings doth God often ſhew forth his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe.</hi>
+            </p>
+            <p>Beſides, how great do we find the tender care and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd of our bleſſed <hi>Saviour</hi> towards the children of his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gdom! <hi>Mark 10.14. &amp; 9.36, 37.</hi> How diſpleaſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he with thoſe that with-held them from him? he took <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m up in his arms, he put his hand upon them; and bleſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, and ſaid, that whoſoever received ſuch in his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, received him, <hi>Mar. 10.15.</hi> Nay, [in return of that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld demand of the <hi>Diſciples</hi>] that, without they became <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſuch,</hi> they ſhould not enter therein. It was the ſaying <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>one,</hi> that, <hi>he had rather have the Feeling that ſimple ſoul hath with God, then all the learning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Philoſophers:</hi> and hence is it, that another <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lleth one, that hath arrived to this degree of hap<g ref="char:EOLhyphen"/>neſs, <hi>a little Diety converſing in amortal Fleſh.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lem. Alex.</p>
+            <p>
+               <hi>Scaliger</hi> reporteth of himſelf, <hi>that he never read of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e death of</hi> Socrates, <hi>but he wept;</hi> and truly, thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho well knew this hopeful <hi>Child,</hi> will hardly forbear <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do the like. Neither [though long clouded in ſilence <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout the leaſt intent of making it <hi>Publick</hi>] can I chuſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t throw this drooping <hi>Flower</hi> after her hearſe; ſuch <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eing her unheard-of forwardneſs, [eſpecially in <hi>hea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enly things,</hi> wherein I have rather <hi>glean'd,</hi> then <hi>ga<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ered</hi> a full <hi>harveſt</hi>] and ſuch the importunity of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe who deſire to preſerve her <hi>Memory,</hi> with my own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſire of manifeſting Gods <hi>Power</hi> in ſo much weakneſs: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe <hi>Glory</hi> I wholly devote it.</p>
+            <p>We have more need of <hi>Patterns</hi> then <hi>Precepts:</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is obſervable in Children, [as in other things] to
+<pb facs="tcp:37811:3"/>imitate their like: and being firſt taken with an <hi>out<g ref="char:EOLhyphen"/>ſide,</hi> may [underſtanding after, that it relates <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one like themſelves] have the greater deſire of reading and being familiar with it: and [at laſt] make tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which ſeems <hi>a Recreation,</hi> to be of greater uſe an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> benefit.</p>
+            <p>And though it pleaſed God (here) to blaſt her inno<g ref="char:EOLhyphen"/>cent joys; and the ſtill-fading <hi>Flowers</hi> of the merrie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> portion of her life, ſeem to have been ſullied [through<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pain and ſickneſs] with <hi>tears</hi> and <hi>ſadneſs,</hi> yet her ſon [having left the encloſure of her body] hath now ex<g ref="char:EOLhyphen"/>changed her <hi>Militancy</hi> below, for a <hi>Manſion</hi> mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>glorious</hi> in heaven: Neither can I conclude with a bet<g ref="char:EOLhyphen"/>ter Caution, then in that of our Saviours words, <hi>Tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heed how you deſpiſe any of theſe little ones.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37811:4"/>
+            <pb facs="tcp:37811:4"/>
+            <head>
+               <hi>Bracteola Aurea,</hi> OR FILINGS of GOLD.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O write the <hi>lines</hi> of our departed <hi>Frien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (eſpecially if more then ordinarily em<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nent in the <hi>Church</hi> of <hi>God</hi>) is a <hi>cuſtom</hi> no leſſe <hi>Antient</hi> then approved, where<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Tyes</hi> of Affection are retaliated, and the <hi>Bom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of Love diſcharged; it being <hi>Gods</hi> courſe to lead <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the ſhort paſſage of our earthly <hi>Pilgrimage</hi> her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſometimes by the ways of <hi>Diſcipline</hi> and <hi>Mortific<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion,</hi> ſometimes by the ways of <hi>Mourning</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Lamentation;</hi> and alſo by the <hi>Examples</hi> of <hi>good</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>bad Preſidents, whereby</hi> to incite to <hi>vertue,</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſſwade from <hi>vice;</hi> we having more need of <hi>Ex<g ref="char:EOLhyphen"/>amples,</hi> then <hi>precepts,</hi> to prevent us from the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>reers</hi> of <hi>Sin,</hi> and to lead us aright under the ſhado<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this worlds <hi>vanity.</hi>
+            </p>
+            <p>
+               <hi>Grace</hi> doth not cut off the affections of <hi>Natur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> but rather Ripen them; and <hi>Relations</hi> make goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men more paſſionate, and to ſpeak feelingly of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Death</hi> of their <hi>Friends,</hi> whoſe perfections ſhoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſs ſome <hi>Tears</hi> from our eyes, and to ſay with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:37811:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ophet, <hi>Is</hi> Jonathan <hi>gone? he ſhall ſtill breath in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſoul:</hi> Neither doth God loſe his <hi>Relations</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Death of his <hi>Saints, Joſua</hi> 1.2. <hi>John</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.11.</p>
+            <p>And ſurely it is much of <hi>Religion,</hi> to take notice <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods choiceſt veſſels, and ſuch as are moſt dear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto him, by the
+<note n="*" place="margin">
+                  <hi>Egregia virtutis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>empla veluti lu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>min edito ponenda <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t, ut omnibus <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eluceant,</hi> &amp;c.</note> 
+               <hi>Example</hi> of an holy, and <hi>Re<g ref="char:EOLhyphen"/>ligious</hi> life; the which (through an impulſive power) not only gives luſtre and reputation, but carries with it a moſt lively Feature of <hi>Di<g ref="char:EOLhyphen"/>vine</hi> Reſemblance, and the Cha<g ref="char:EOLhyphen"/>racters of <hi>Divinity;</hi> yea the <hi>Pat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rns</hi> of the vertuous, we find (by ſome) to be cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the ſeeds of <hi>Eternity.</hi>
+            </p>
+            <p>Neither (omitting what we find in other <hi>Hiſto<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi>) do we want a plentifull ſtore-houſe of Scrip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re <hi>Preſidents,</hi> the ſpirit of God being very large in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir <hi>prayſe.</hi> The <hi>Jews</hi> could not forget their good <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enturion, Luke</hi> 7.5. and the <hi>Widdows</hi> (having <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt waſh'd their <hi>Dorcas,</hi> and laid her forth with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir <hi>Tears</hi>) ſhewed the <hi>Coats</hi> and <hi>Garments</hi> ſhe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d made them, <hi>Act.</hi> 9.29. Yea, ſo vigorous do we <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de the <hi>Examples</hi> of great <hi>Perſonages,</hi> as that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey are ſometimes call'd <hi>Angels</hi> of God, and <hi>Lights</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the people, 2 <hi>Sam.</hi> 14.17. and 21.17.</p>
+            <p>How much then doth it import to enter into <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſe Liſts, in which <hi>Gratious</hi> ſouls have run their <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urſe?</hi> whoſe <hi>lives</hi> inſtruct, whoſe <hi>Deaths</hi> teach, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d whoſe <hi>works</hi> follow them! there being no better <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ordiall</hi> to comfort the <hi>Friends</hi> of the departed, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> revive their drooping <hi>Souls,</hi> then by this way <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> making them <hi>alive.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:37811:5"/>The <hi>Aegyptians</hi> ſpent much time, and coſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Embalming their <hi>Friends,</hi> and building their <hi>Tombs</hi> as ſondly conceiving that they were to remaine long<g ref="char:EOLhyphen"/>er in them then in their <hi>houſes;</hi> and yet all thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> while they did but lay them with their <hi>Faces</hi> down<g ref="char:EOLhyphen"/>wards; the Imitation of their vertues being the beſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way to preſerve, and maintaine a <hi>Familiarity</hi> wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them in their Graves: <hi>The righteous</hi> (ſaith <hi>David</hi>) <hi>ſhall be had in everlaſting Remembrance:</hi> Yea the <hi>E<g ref="char:EOLhyphen"/>vangelical</hi> Prophet thinks it a thing very worthy to be laid to heart, that <hi>the
+<note n="*" place="margin">Eſa. 57.1.</note> Righteous periſh, and n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man conſiders it.</hi>
+            </p>
+            <p>If a good life then be the beſt <hi>Monument,</hi> and thoſe <hi>Memories</hi> ſtand faſteſt, which are founded o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Rock of <hi>vertue</hi> and Religion [all others decay<g ref="char:EOLhyphen"/>ing which are laid in the foundred Bottom of world<g ref="char:EOLhyphen"/>ly <hi>vanity</hi>] how ſad is it to obſerve, that ſtrange kind of under-valuing the <hi>memory</hi> of the Dead [ſo highly recorded by the <hi>ſpirit</hi> of God] which float<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the <hi>Fancies</hi> of ſome who are down-right <hi>Satyriſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> againſt their deſerved <hi>Prayſe!</hi> yea, how ſoon (alas!) do they leave off chafing the <hi>Temples</hi> of their <hi>Friends</hi> no way conſidering, how good it is to begin, and end, all our Actions with the <hi>Meditation</hi> of our <hi>Duſt,</hi> whereby Nature [at firſt] gave us beginning, and Death [at laſt] will put an end to all our eathly travel and miſery!</p>
+            <p>And ſo farre are many from deſiring here (with <hi>Philip</hi> of <hi>Macedon</hi>) to be minded of their <hi>Mortali<g ref="char:EOLhyphen"/>ty,</hi> and departure hence, as that rather (with that
+<note n="*" place="margin">
+                  <hi>Lewes</hi> 11.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>French</hi> Prince) they command their ſervants not ſo much as to mention <hi>Death;</hi> as
+<pb facs="tcp:37811:6"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no care were to be taken before our earthly <hi>lodg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gs</hi> grow rotten, the foundation ſinks, the <hi>Fur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture</hi> becomes moath-eaten, and the whole <hi>struc<g ref="char:EOLhyphen"/>ture</hi> begins to fall about our Ears. Yea, how often <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alas!] do we deferre the welfare and happineſs of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur <hi>Soul,</hi> untill <hi>Years</hi> approach, <hi>Phyſitians</hi> grow im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otent, the <hi>Evening</hi> ſtarre of our life begins to ap<g ref="char:EOLhyphen"/>pear, our <hi>Sinews</hi> ſhrink, our blood congeals, the <hi>Bells</hi> tod, the <hi>winders</hi> are in our ſight, <hi>Death</hi> ſtrikes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t our heart, and a <hi>aying hana</hi> is only left us to be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ueath away all we have; this being but a bad <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, to provide for the grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Birth day</hi> of <hi>Eter<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity.</hi>
+            </p>
+            <p>The greateſt work we have to finiſh in this world, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <hi>die well,</hi> and to make a happy departure out of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, whereby we leave the world before it leaves us, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd give <hi>Death</hi> our hand as a wellcome <hi>Meſſenger,</hi> not as an affrightfull <hi>Serieant;</hi> it is good [early] to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e familiar with it, and to take notice of all its ap<g ref="char:EOLhyphen"/>proaches, by the diſſolution of others; there being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omething of benefit to be reaped by our <hi>Neigh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orus</hi> departure. Not a <hi>Paſſing Bell,</hi> but (like
+<note n="*" place="margin">
+                  <hi>Gen.</hi> 49.1.</note> 
+               <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> calling to his ſons) ſerves to mind us, our <hi>turn</hi> may be next; nor is there a <hi>Corpſe</hi> carried to be buried, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid in its laſt reſting place, but <hi>being dead yet speaketh,</hi> yea preacheth our <hi>Funeral</hi> Ser<g ref="char:EOLhyphen"/>mon.</p>
+            <p>Beſides, though we have loſt the ſight of our <hi>friends,</hi> yet not our <hi>Affections,</hi> (ſaith St.
+<note n="*" place="bottom">
+                  <hi>Quamquam ſeparati ſumus aspectu, non tamen Affectibus;</hi> S. <hi>Ambroſe.</hi>
+               </note> 
+               <hi>Ambroſe</hi>)
+<pb facs="tcp:37811:6"/>we ought not to part with them ſo ſoon as natur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> parts with them; or to throw away all our acquain<g ref="char:EOLunhyphen"/>tance with the <hi>Grave</hi>-ſhovell; but ſtill to main<g ref="char:EOLunhyphen"/>taine that intimacy of Affection which we find war<g ref="char:EOLunhyphen"/>rantable from the word of Truth; our <hi>Saviour,</hi> be<g ref="char:EOLunhyphen"/>ing pleaſ'd to call <hi>Lazarus</hi> his <hi>Friend,</hi> though he were in his <hi>Grave, John</hi> 11.11. And <hi>Moſes</hi> wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill the <hi>ſervant</hi> of God [though dead] <hi>Joſhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 1.1.</p>
+            <p>Neither can I believe, that thoſe whoſe pulſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Affections</hi> ſo ſoon leaves beating [under what colour or pretence ſo ever] as not to beſtow one <hi>ſigh</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tear,</hi> to beſprinkle the <hi>urne</hi> of their departe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Friends,</hi> have found the right way of committing them to the earth; though not fooliſhly to diſcharg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſurpluſage of our <hi>Paſſions</hi> on our ſelve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> [which would prove rather <hi>Heatheniſh,</hi> then <hi>Chriſti<g ref="char:EOLunhyphen"/>an</hi>-like] or by an over amorous <hi>Devotion</hi> to preſerve the <hi>Reliques</hi> of our departed <hi>Friends,</hi> whereby tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which [at firſt] was but the <hi>Picture</hi> of a <hi>Friend</hi> (in time) grows to a <hi>falſe God.</hi>
+            </p>
+            <p>That tears are a <hi>Tribute</hi> due to the
+<note n="*" place="margin">
+                  <hi>Gen.</hi> 37.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Dead,</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we find in the Father of the <hi>Faithfull;</hi> and weeping <hi>Jacob</hi> would not be com<g ref="char:EOLhyphen"/>forted, but ſaid, <hi>Surely, I will go down into the grave unto my Son mourning.</hi> Neither ſhall we be unfurniſhed of occaſions for <hi>grief,</hi> from the <hi>Cradle</hi> to the <hi>Grave,</hi> while we are here in this valley of <hi>Tears.</hi>
+            </p>
+            <p>We are here encompaſſed with ſeverall ſorts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tears;</hi> we have our Repenting <hi>Tears,</hi> we have our
+<note n="*" place="margin">Lacrym<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poenitentiae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> fellow-feling <hi>Tears,</hi> but (a<g ref="char:EOLhyphen"/>bove
+<pb facs="tcp:37811:7"/>all) our
+<note n="*" place="margin">Lacryma com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſionis, Lacry<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae Doloris.</note> Grief <hi>Tears</hi> are thoſe which ſeem moſt to affect: theſe are they which (like low grounds) ſtill make us moiſt, and watery: Theſe are they which make the <hi>Prologue</hi> of our life <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeping,</hi> the <hi>Act</hi> of our life <hi>weeping,</hi> and whoſe <hi>Epilogue</hi> ſtill ends in weeping.</p>
+            <p>We hear one (with the <hi>widdowes</hi> ſonne) crying <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y head, my head!</hi> Another (with the <hi>Children</hi> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Prophets</hi>) moaning <hi>my belly, my belly!</hi> yonder <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands one (with <hi>David</hi>) lamenting <hi>my Son, my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou!</hi> here another (with <hi>Eliſha</hi>) crying out <hi>my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather, my Father!</hi> one <hi>groaning</hi> (with <hi>Hezekiah</hi>) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the burthen of his <hi>ſickneſſe;</hi> another (with <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>achel</hi>) bewayling her <hi>Children</hi> and <hi>will not be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omforted.</hi> Yea, we finde the height of grief ex<g ref="char:EOLhyphen"/>preſs'd in <hi>Scripture,</hi> by <hi>one</hi> that <hi>mourneth for his on<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Son:</hi> and the ſpirit of God making it as it were a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing impoſſible <hi>for a Mother to forget her Child.</hi> Eſa. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9.15.</p>
+            <p>We read of St. <hi>Ambroſe,</hi> that he lamented the Death of <hi>
+                  <g ref="char:V">Ʋ</g>alentinian</hi> and <hi>Gratian,</hi> as if he had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt both his <hi>Eyes;</hi> and again (ſpeaking of his dear Brother
+<note n="*" place="margin">Velut ocu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hi de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſos do lco, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. Amb. de <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bi. Satyr.</note> 
+               <hi>Satyrus</hi>) he ſaith, <hi>Can I ever forget thee with whom I have ſpent out my life?</hi> any we finde the Prophet ſet<g ref="char:EOLhyphen"/>ting it forth, as a <hi>Curſe</hi> to die <hi>unla<g ref="char:EOLhyphen"/>mented,</hi> Jer. 22.18, 19. and that paſſage <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Prophet <hi>Zachary [that that dieth, let it die]</hi> Zach. 11.9. is held by him as a <hi>Malediction;</hi> being as much as to ſay, let it do <hi>no good in dying,</hi> which ſeems alſo to agree with that of the Apoſtle who tels
+<pb facs="tcp:37811:7"/>us that <hi>Trees without Fruit</hi> are called <hi>twice dead;</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> truly, its a kind of <hi>ſecond death,</hi> if none <hi>living</hi> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the better <hi>for us.</hi>
+            </p>
+            <p>And do we not finde the Prophet as it were cal<g ref="char:EOLhyphen"/>ling back <hi>Elias</hi> out of the <hi>Clouds;</hi> ſo unwilling wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he to let him go but ſtill to have him in his ſight <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not like thoſe who ſo ſoon part with their <hi>friend</hi> (laying them with their Faces downward) as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> [being <hi>dead</hi>] they <hi>live</hi> no longer to them; the Af<g ref="char:EOLhyphen"/>fection of the one expiring with the breath of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other, and both breathing out their laſt toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>But what need we more? when [certainly] we have the beſt of <hi>Patterns</hi> for our <hi>Tears,</hi> Joh. 11.35. ſo as <hi>we greive not like thoſe without hope,</hi> 1 <hi>Theſſ</hi> 4.13. who was known to <hi>groan</hi> and <hi>weep,</hi> but never to <hi>laugh.</hi> He inquired of all thoſe that paſſed by, <hi>whether any ſorrow were like his ſorrow?</hi> Lam. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nay we find his <hi>ſoul exceeding ſorrowfull, even to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Death,</hi> Mat. 26.30.</p>
+            <p>He bids us [indeed] ſometimes to <hi>rejoyce,</hi> but in what? except out <hi>reproaches.</hi> St. <hi>Paul</hi> had his <hi>Joy,</hi> but it was in his <hi>Afflictions;</hi> and the <hi>Martyrs</hi> had their <hi>Joy,</hi> but dull <hi>fleſh</hi> was not the <hi>object;</hi> it was in their <hi>ſufferings;</hi> this kind of <hi>joy,</hi> muſt be ſown in <hi>Tears,</hi> and we muſt waite for it, till the Harveſt come; untill <hi>Heaven</hi> be our dwelling, incorruption our change, the Angells our Partners, and Immortality our Garment.</p>
+            <p>Thoſe (indeed) which do here make <hi>Earth</hi> their <hi>Heaven,</hi> &amp; are not acquainted with the <hi>Muſick</hi> which is in the <hi>groans</hi> of the <hi>Afflicted,</hi> nor what <hi>Beauty</hi> is in the <hi>Tears</hi> of the <hi>Mourners,</hi> would wonder [or at
+<pb n="8" facs="tcp:37811:8"/>leaſt wiſe think him <hi>Frantick,</hi> if not miſtaken in his way] who ſhould knock at a <hi>Grave</hi>-ſtone for a <hi>Companion;</hi> or ſhould go down into a <hi>Vault</hi> or <hi>Char<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell</hi> houſe to make <hi>Merry;</hi> And yet even <hi>hence</hi> may we draw inſtruction of <hi>Piety,</hi> and by the <hi>Meditation</hi> of the <hi>Death</hi> of our <hi>friends</hi> [whereby God [for our correction and inſtruction] is pleaſ'd often to chaſtiſe us in our neareſt <hi>Relations,</hi> and to open a <hi>Vein</hi> in the <hi>Arme</hi> for the curing of the head] pro<g ref="char:EOLhyphen"/>duce a better <hi>life</hi> to our ſelves.</p>
+            <p>And certainly, its a Bad <hi>Flower,</hi> out of which we cannot ſuck ſome <hi>honey,</hi> tending to the benefit and advantage of our ſoul; and an unskilful <hi>Gardner,</hi> which will not [this way] allow ſome <hi>Thorns</hi> and Thiſtles to hedge in the <hi>Garden</hi> of his <hi>Soul,</hi> from the waſting Creatures of <hi>ſin</hi> and wickedneſſe; yea ſurely its a weak <hi>Stomack</hi> which cannot pati<g ref="char:EOLhyphen"/>ently look on a <hi>Death's Head</hi> in the midſt of a <hi>Feaſt;</hi> and a worſe <hi>App<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tite</hi> which cannot ſome<g ref="char:EOLhyphen"/>times be content to feed on a <hi>Commons</hi> of <hi>Dry-Bones,</hi> with the Meditation of <hi>Mortality.</hi>
+            </p>
+            <p>Miſtake me not; I do not ſay we ſhould ſo hang down our Heads, as that, becauſe Earth ought not to be our <hi>Resting place,</hi> we ſhould therefore make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it our <hi>Hell;</hi> Neither do I invite any [more then out of <hi>Religious</hi> obſervation] to ſeek for the <hi>living</hi> a<g ref="char:EOLhyphen"/>mong the <hi>Dead;</hi> or to go down [with <hi>me</hi>] into the <hi>vault</hi> of this departed <hi>Child</hi> (which would be no other then as the <hi>mourning</hi> we read of the feined <hi>woman,</hi> 2 <hi>Sam.</hi> 14.2.) but only to preſerve their <hi>Graces,</hi> and recount the <hi>Paſſages</hi> of their <hi>life;</hi> that ſo, though we cannot ſtill <hi>behold them,</hi> we may
+<pb n="9" facs="tcp:37811:8"/>ſtand <hi>Remembrancers</hi> of their <hi>worth.</hi>
+            </p>
+            <p>But not to let my <hi>Pen</hi> too farre digreſs, neither make too great a ſtay in the <hi>Porch</hi> or en<g ref="char:EOLhyphen"/>trance, before we approach the houſe, by ſhewing you how <hi>Jſaac</hi> mourned three years over his <hi>Mo<g ref="char:EOLhyphen"/>ther; Jacob,</hi> 22. years over his <hi>Son;</hi> nor (as ſome <hi>Rabbines</hi> would tell us) that <hi>Adam</hi> mourned 100 years for his Son <hi>Ab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> Neither that the <hi>Jews</hi> were wont to hire men for to <hi>lament</hi> their <hi>Dead</hi> (who cut, and pricked themſelves that they mi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> weep in ear<g ref="char:EOLhyphen"/>neſt) let it be enough that there is a <hi>Time</hi> of <hi>weep<g ref="char:EOLhyphen"/>ing</hi> appointed by God. <hi>Eccleſ.</hi> 3.4. That there is a Bochim and Valley or Tears, where we ought ſome<g ref="char:EOLhyphen"/>times to life up our voices, and weep: yea, a <hi>Marah,</hi> which occaſions bitterneſſe of <hi>Soul,</hi> and (as at pre<g ref="char:EOLhyphen"/>ſent) fills our hearts, and eyes full of <hi>weeping,</hi> and lamenting: To which, after have we once given their full ſcope, they will grow the more eaſy and lighter; And happy are we, if we can ſo refreſh our heavineſſe by our <hi>Tears,</hi> as to cleanſe that fountaine of <hi>Sin,</hi> which is ever and anon offering us the ſad occaſions of our <hi>Greif</hi> and ſorrow.</p>
+            <p>But now, to write the <hi>life</hi> and <hi>Death</hi> of a <hi>Child,</hi> in an <hi>Age</hi> which affords ſo many <hi>Preſidents</hi> of worth and larger Endowments, may (to ſome) ſeem as ſtrange as unuſual; to whom I anſwer that, <hi>at as eſt perfecta, ubi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>virtus eſt perfecta; Age</hi> is <hi>perfect where vertue is perfect;</hi> and that God (<hi>who deſpiſeth not the day of ſmal things</hi> but whoſoever worketh Ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hteouſneſſe is accepted with him) always judg<g ref="char:EOLhyphen"/>eth thoſe things <hi>greateſt,</hi> which are moſt <hi>gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious;</hi> the leſſe we ſeem to our <hi>ſelves,</hi> the greater we are
+<pb n="10" facs="tcp:37811:9"/>with <hi>him,</hi> and the ſafeſt
+<note n="*" place="margin">Diſcendend a c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oe lum aſcenditur: Caſſiodorus.</note> aſcent to <hi>Heaven</hi> is by the acknowledgment of our own <hi>Nothingneſſe,</hi>
+            </p>
+            <p>Our bleſſed <hi>Saviour</hi> (who was the Oracle of <hi>Truth</hi> it ſelf, and who came not to break the <hi>bruiſed reed,</hi> nor to quench the <hi>ſmoaking flax, Mat.</hi> 19.13.) was pleas'd to receive, and bleſſe thoſe <hi>Children</hi> which were brought unto him; yea, to tell his <hi>Diſciples</hi> [plain<g ref="char:EOLhyphen"/>ly] who were (or ſhould have been) the wiſeſt of men (in regard of the many wonders and <hi>Miracles</hi> they ſaw, and the conſtant familiarity they had with their Lord and <hi>Maſter</hi>) that, <hi>unleſſe they became as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ittle Children, they ſhould not enter into the King<g ref="char:EOLhyphen"/>dom of Heaven,</hi> Mark 10.14, 15. and were fain to to have the <hi>Pattern</hi> of a little child held forth unto them to abate height of their thoughts, and to teach them <hi>humility,</hi> and lowlineſſe.</p>
+            <p>Whereby we ſee, that, ſhould we look for <hi>per<g ref="char:EOLhyphen"/>fection</hi> in the beſt of Gods <hi>Servants</hi> [nothing be<g ref="char:EOLhyphen"/>ing here abſolutely ſo [we ſhould find the <hi>failings</hi> of good men, ready to produce a <hi>reſtraint</hi> of their their <hi>Graces;</hi> no <hi>Gold</hi> being without its <hi>droſs,</hi> nor <hi>Corn</hi> without its <hi>Tares.</hi> And how happy were it for many [poor ſouls!] who ſtand ſo much upon the uprightneſſe of their hearts and <hi>lives</hi> [being ra<g ref="char:EOLhyphen"/>ther <hi>objects</hi> of grief and pitty, their Bodies being ſo near their <hi>graves,</hi> and their ſouls no way provi<g ref="char:EOLhyphen"/>ded for <hi>Heaven</hi>] if they had but the acquaintance with Death, which this poor <hi>Child</hi> had!</p>
+            <p>Nor let the <hi>ſhortneſſe</hi> of her <hi>Age,</hi> any way de<g ref="char:EOLhyphen"/>terre from the <hi>Imitation</hi> of her <hi>vertues, ſhe</hi> being ſo richly endow'd with the <hi>Innocency</hi> of <hi>Child-hood</hi>
+               <pb n="11" facs="tcp:37811:9"/>and beginning ſo ſoon to <hi>live</hi> to <hi>God,</hi> to learn th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Scriptures</hi> of a <hi>Child,</hi> 2 <hi>Tim.</hi> 3.15. and to remem<g ref="char:EOLhyphen"/>ber her <hi>Creatour</hi> in the dayes of her <hi>Youth, Eccle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 12.1. yea, in the dawn and morning of <hi>her</hi> few dayes did <hi>ſhe</hi> begin to <hi>ſuck in the milk of Gods wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (as it were) with the milk of her <hi>Nurſe;</hi> and [b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>her</hi> early <hi>Fruits</hi>] ſeemed [there] ſo to ſettl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her <hi>Virgin Love,</hi> as that (had it pleaſ'd God to have afforded <hi>her</hi> longer life) <hi>ſhe</hi> gave grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopes of proving <hi>herſelf</hi> very inſtrumental in his <hi>Church.</hi>
+            </p>
+            <p>And that <hi>ſhe</hi> had a <hi>love</hi> to <hi>Gods houſe,</hi> appeared by her often enquiry in the week dayes, when <hi>ſhe</hi> ſhould go to the Church; and her earneſtneſs to go thither, as if God (who hath <hi>milk</hi> for <hi>Children</hi> as well as ſtronger <hi>meat</hi> for <hi>thoſe</hi> that are of a <hi>full Age,</hi> Heb. 5.13, 14.) had inform'd her <hi>Soul,</hi> how pleaſing a thing it was to him, to come <hi>early</hi> into his <hi>vine<g ref="char:EOLhyphen"/>yard;</hi> and (however <hi>ſhe</hi> endured not the heat of the Day) hath now [no doubt] given her, her <hi>Re<g ref="char:EOLhyphen"/>ward;</hi> the <hi>veſſels</hi> appointed for the <hi>ſervice</hi> of his <hi>Temple,</hi> being not all of one <hi>Bigneſs,</hi> yet none <hi>unuſeful.</hi>
+            </p>
+            <p>Her fear of taking <hi>Gods name</hi> in <hi>vain,</hi> was alſo very obſervable; ſhe was not only very cautious <hi>her ſelf,</hi> but hath been often heard to reprove <hi>others;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cquainting them with the danger thereof, which was a true ſign of that <hi>heavenly wiſdom,</hi> whereof the <hi>fear of the Lord is the beginning.</hi>
+            </p>
+            <p>
+               <hi>Her</hi> deſire alſo of <hi>Schooling</hi> arboad, of reading
+<pb n="12" facs="tcp:37811:10"/>praying, and being <hi>Chatechized</hi> at home, was well <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own to thoſe which were about <hi>her;</hi> wherein <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would often intreat others to help and inſtruct <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er; which greatly took her off from miſpending <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at time (whereof <hi>ſhe</hi> had little to imploy) which otherwiſe] might have been ſpent in the <hi>vanities</hi> of <hi>Childhood.</hi>
+            </p>
+            <p>
+               <hi>Her dutifulneſſe</hi> to her <hi>Parents,</hi> was likewiſe to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e noted; how careful was <hi>ſhe</hi> to pleaſe them? how <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earful to offend them? how ready to obey them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he which [as we find it an honour to the (2 <hi>Joh.</hi> 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Elect Lady,</hi> that all her <hi>Children</hi> walked in the <hi>Truth</hi>] muſt needs be a comfort to them, to hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch an <hi>Olive-Branch</hi> about their <hi>Table.</hi>
+            </p>
+            <p>Very <hi>watchful</hi> and fearful <hi>ſhe</hi> was to do <hi>evil</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd which <hi>ſhe</hi> would not only ſeem to check in <hi>her<g ref="char:EOLhyphen"/>ſelf</hi> (when through weakneſs or tenderneſs of na<g ref="char:EOLhyphen"/>ture, <hi>ſhe</hi> was at any time made ſenſible of ſuch frail <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies as are incident to the overſights of <hi>Child-hood</hi>) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut even ſtand wondring at <hi>others;</hi> and (as much a may be) in <hi>her</hi> words, and <hi>Gestures</hi>] reprove tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in them, which <hi>ſhe</hi> ſeem'd ſo much to diſlike i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her ſelf.</hi>
+            </p>
+            <p>Neither [had God pleas'd to lengthen her life was her <hi>peaceable diſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſition</hi> likely to have prov'd th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leaſt <hi>Jewel</hi> in the <hi>Diadem</hi> of her <hi>vertues;</hi> making <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (as it were) her ſtudy in her <hi>health</hi> [but eſpeciall her <hi>ſickneſſe,</hi>) as appear'd by her many expreſſions <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe about <hi>her,</hi> to be <hi>quiet,</hi> which (wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much earneſtneſs) <hi>ſhe</hi> often repeated, thereby ſeem<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:37811:10"/>to invite us to that <hi>Gospel-rule of living pea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ably with all men,</hi> 1 <hi>Theſ.</hi> 4.11. being a <hi>duty</hi> neceſſary, as wanting in the general courſe of o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>lives.</hi>
+            </p>
+            <p>When <hi>ſhe</hi> ſaw any <hi>Poor,</hi> it ſhould go hard but <hi>ſhe</hi> would find ſomething to ſupply and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> freſh them. And when <hi>ſhe</hi> heard of any that we <hi>ſick</hi> in the <hi>Family</hi> [whether Servants or other how tender, and tending would <hi>ſhe</hi> be (eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with ſeariouſneſſe of advice, and with ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſweet ſpecches of comfort, as out-went many wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had ſpent more years in the world; ſaying <hi>it w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gods will,</hi> we ſhould be <hi>ſick,</hi> it was for <hi>our good,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that <hi>God</hi> could ſend <hi>ſickneſs</hi> or death to <hi>her</hi> alſo, if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleaſed ſo to do!</p>
+            <p>What ſhall I ſay? <hi>ſhe</hi> was a <hi>Child</hi> [or rather a <hi>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man</hi>] in whom did appear ſo much of <hi>perfection,</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Divine Soul,</hi> as hath been ſeldom known at h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Age;</hi> yea, <hi>ſhe</hi> was as a <hi>little world,</hi> wherein w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contain'd a lively <hi>Map</hi> of heavenly <hi>Graces.</hi> Nature [or rather the <hi>God</hi> of Nature] baving endow'd he (as with the Innocency of <hi>Child-hood,</hi> ſo) wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the apparent <hi>ſigns</hi> of <hi>grace</hi> in <hi>her old-age,</hi> ſhe be<g ref="char:EOLhyphen"/>ing of a compoſed ſpirit, and heavenly temper; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a quick wit, and active Body; modeſt in her ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> riage, ſolid in her behaviour; of a ſweet, win<g ref="char:EOLhyphen"/>ing and affable demeanour and diſpoſition; fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miliar, and <hi>loving</hi> to all; by whom <hi>ſhe</hi> was a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gain as generally <hi>beloved,</hi> and at her <hi>Death</hi> as much <hi>Lamented.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:37811:11"/>
+               <hi>Her ſickneſſe</hi> was long and teadious [near twenty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeks] her pain, and lingring fits were many, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>ſighs,</hi> and groans (at times) not a few. Yet oh! <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith what abundanc of patience did <hi>ſhe</hi> overcome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em? Ah! with what <hi>mildneſſe</hi> and chearfullneſſe, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>ſhe</hi> undergo, and poure our, her ſhort and deep <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch't breath, which ſtill threatned the approaching <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f that laſt <hi>Enemy</hi> which <hi>Nature</hi> ſo much ſtruggles <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith; though (to <hi>her</hi>) ſeeming no way Dreadful, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the many, long and teadious aſſaults that Death <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade upon her!</p>
+            <p>Or if [through continued wea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ineſſe, and pain] <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might in the midſt of ſome violent diſtemper <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em to be troubled in <hi>her Imagination,</hi> ſure it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as no way, in <hi>her memory;</hi> the which [without <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e leaſt diſturbance in her <hi>Soul</hi>) laſted even to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt <hi>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur,</hi> and wherein the <hi>goodneſſe</hi> of <hi>God</hi> was ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſs'd, ſince <hi>diſeaſes</hi> (like mercileſs <hi>Theeves</hi>) rob <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any of their <hi>ſenſes</hi> on their <hi>Deaths-beds,</hi> when they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve moſt need of them, and often fall into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat outragiouſneſſe and blaſpheaming even of God <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mſelf!</p>
+            <p>Neither is long <hi>ſickneſſe</hi> to be looked on as a <hi>ſign</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Gods anger (the delays of whoſe <hi>favours</hi> are not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lways a <hi>Refuſal</hi>] who often differs his <hi>cure,</hi> where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to raiſe from <hi>Death;</hi> and ſuffers his <hi>Children</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oftentimes) to fall into <hi>lingering ſickneſſes,</hi> for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir better <hi>Repentance,</hi> and to teach them that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir <hi>Bodies</hi> are not free from Infirmities, and to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e end that thoſe who are <hi>Exemplary</hi> in their
+<pb facs="tcp:37811:11"/>
+               <hi>lives,</hi> [the <hi>Saints</hi> of God (as we find in Scripture<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being beſt at their <hi>Ends,</hi> and the <hi>living</hi> ſpeecues <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>dying</hi> Chriſtians uſually beſt remembred, and mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> regarded] ſhould (through his ſtrength, and thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own patience) ſhew ſomething Remarkable in thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſickneſſe,</hi> and <hi>Death.</hi>
+            </p>
+            <p>And though <hi>ſhe</hi> was long going to her <hi>journeys</hi> end<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet ſeemed <hi>ſhe</hi> no way tired, with the length thereof [the true Temper of a <hi>Chriſtian</hi> in <hi>dy<g ref="char:EOLhyphen"/>ing</hi>] but was well contented to waite his <hi>lei<g ref="char:EOLhyphen"/>ſure,</hi> whoſe appointed time [queſtionleſſe] was the beſt for <hi>her,</hi> and whoſe ſubmiſſion to his will made her <hi>Bed</hi> ſeem ſo eaſy in her ſick<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>It was a rare thing to obſerve in a <hi>Child</hi> ſuch an heavenly <hi>comportment</hi> in <hi>ſickneſſe,</hi> and even con<g ref="char:EOLhyphen"/>tempt of her enſueing <hi>Death!</hi> to ſee <hi>her,</hi> how <hi>ſhe</hi> lay in the time of <hi>her ſickneſſe!</hi> with what undaun<g ref="char:EOLhyphen"/>tedneſſe of ſpirit, yet humble meekneſſe! How <hi>ſhe</hi> held her peace (I mean in any way of murmuring or impatient repining againſt him, whoſe doing it was! no diſtracted geſture being ſeen in <hi>her</hi> counte<g ref="char:EOLhyphen"/>nance, nor to be read in her complaining; not ſo much as letting an eye [as it were] to roll amiſs, though (perchance) ſhe had many hard encounters, and did oftentimes wreſtle with many ſtrong and violent <hi>Conflicts,</hi> ſo that as <hi>Death</hi> (which embitters all the comforts of this <hi>life</hi> to the <hi>wicked</hi> (God ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retly ſtanding by <hi>her,</hi> and making <hi>her</hi> to overcome at laſt) was to her not only ſweet but welcome;
+<pb n="16" facs="tcp:37811:12"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of whole future happineſſe (though lying many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeks ſick, like a <hi>Princeſs</hi> in a ruinous <hi>houſe</hi> ſhe que<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onleſſe) ſaw a glimps, through the chincks of a <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ckneſſe</hi>-broken Body.</p>
+            <p>Neither could <hi>ſhe</hi> chuſe but ſmile upon <hi>Death</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving (as it were) from <hi>her</hi> very <hi>Infancy,</hi> by a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontinual exerciſe in vertue triumphed over <hi>Sin,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich only makes <hi>Death</hi> to be formidable. And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough <hi>ſhe</hi> ſaw <hi>Death</hi> making towards her, and of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en heard thoſe that came to ſee <hi>her,</hi> to queſtion her <hi>Recovery,</hi> by the incureableneſſe of her <hi>diſeaſe;</hi> yet was ſhe not ſeen to make the leaſt <hi>change</hi> in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er countenance, or ever to expreſſe the leaſt diffi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence in <hi>Gods</hi> help towards her <hi>Recovery;</hi> but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather, a holy readineſſe by Death [yet very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arefull in obſerving all means tending to pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rve a longer life] whereby to enjoy the preſence of him <hi>ſhe</hi> ſo often call'd on in her <hi>ſickneſſe</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> even <hi>her good God</hi>] and which (with much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arneſtneſſe of ſpirit) <hi>ſhe</hi> often repeated, and ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected health from; as well knowing <hi>ſhe</hi> was in the Armes of <hi>life,</hi> and ſhould [at laſt] finiſh her <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourſe</hi> with joy.</p>
+            <p>But before the <hi>Candle</hi> of her <hi>life</hi> was put out, the <hi>Miniſter</hi> coming to ſee <hi>her,</hi> ſhe took him by the hand, and deſired him to pray for her; which was twice powerfully done the next <hi>Sabbath</hi> Day, not without the pouring out of many <hi>ſighs,</hi> and the ſhedding of many <hi>Tears,</hi> by thoſe that were then preſent. And however God was not pleas'd [whoſe
+<pb n="17" facs="tcp:37811:12"/>ways are paſs't finding out, and often uſeth to ex<g ref="char:EOLhyphen"/>erciſe our, patience] to give an anſwerable Return in regard of her <hi>Recovery</hi> (intending <hi>her</hi> for himſelf yet was ſhe afterwards endow'd with unſpeakabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfort and <hi>patience,</hi> even to her laſt Breath. I being impoſſible [as St. <hi>Ambroſe</hi> told St. <hi>Auſtin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Mother] that a <hi>Child</hi> of ſo many <hi>Prayers</hi> ſhould miſcarry.</p>
+            <p>Neither could it be any thing elſe which made <hi>he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to ſhew ſo meek and quiet a deportment in tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work of <hi>Dying,</hi> but <hi>her</hi> being ſatisfied with the heavenly <hi>Manna</hi> of <hi>her</hi> Saviours <hi>preſence,</hi> and that ſight of <hi>heaven,</hi> which in a more then ordinary way ſtrengthned <hi>her</hi> towards her long <hi>Jour<g ref="char:EOLhyphen"/>ney;</hi> and where <hi>ſhe</hi> plainly foreſaw, all <hi>Tears</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſighs ſhould be wiped away from <hi>her</hi> eyes, and every <hi>fit</hi> of <hi>ſickneſſe</hi> ſhould have its peculiar <hi>Crown.</hi>
+            </p>
+            <p>When her <hi>ſpirits</hi> began to fail, and to loſe ground of their uſuall quickneſſe, and her ſpeech began to fail, her inward ſtrength [no doubt] increaſ<g ref="char:EOLhyphen"/>ed, while her outward decayed. Nor may we con<g ref="char:EOLhyphen"/>clude other, but that [ſo long as Nature was pleaſ<g ref="char:EOLhyphen"/>ed to fanne a little breath into her Noſtrills] grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was the comfort between <hi>God</hi> and her <hi>Soul,</hi> who is the beſt Interpreter of the heart; and who at laſt gently drew out her Breath, and (as it were) led her by the hand into that <hi>Manſion</hi> he had pre<g ref="char:EOLhyphen"/>pared for <hi>her;</hi> like a <hi>Tree</hi> loaden with abundance of <hi>Fruit,</hi> and having a <hi>Spirit</hi> too full of ſplendour to be longer obſcured in a cloud of <hi>Fleſh.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:37811:13"/>And after her <hi>Soul</hi> was gone a <hi>Sacrifice</hi> to Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, with how chearfull and <hi>ſmiling</hi> a counte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance, did ſhe look; as if [even then] at her de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rture hence, <hi>ſhe</hi> had had ſome ſweet conference <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith <hi>her Saviour</hi> and his bleſſed <hi>Angels</hi> [who are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id to take care of little <hi>Children,</hi> Mat. 18.10.] ſhe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>emed no other [after her panting and long-fetch't reath] then as <hi>one</hi> that was refreſhed with the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep of <hi>death,</hi> yea all thoſe that behel'd her, ſaid <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at <hi>ſhe</hi> never looked fairer then in her <hi>mourning Dreſs</hi> and attire, Ah! how pleaſingly did ſhe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ok, when ſhe lay diſroabed of all her <hi>ſin,</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrows</hi> it brought with it? there being then neither <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh</hi> nor <hi>groan,</hi> neither <hi>grief</hi> nor <hi>pain</hi> to perplex <hi>her</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uiet <hi>Soul,</hi> which was then newly fled to <hi>heaven</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith the white wings of her <hi>Dovelike Inno<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ency.</hi>
+            </p>
+            <p>Nor need thoſe that came to deck her, bring any <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lowers</hi> [which in <hi>her</hi> life time ſhe ſo much delight<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and took pleaſure in] or to ſpend any time in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dorning that prety <hi>piece,</hi> in the ſweetneſſe of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe ſmiling <hi>looks</hi> there appear'd ſuch a pleaſant <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring of <hi>Roſes,</hi> and <hi>lillies,</hi> which had over-ſpread <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er <hi>lipps</hi> and <hi>Cheeks;</hi> neither wanted a <hi>Garland</hi> to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>race her at <hi>her</hi> Death, having in <hi>her life</hi> time been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eautified with the <hi>Flowers</hi> of a more laſting condi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+            <p>Inſomuch, as that when <hi>ſhe</hi> had put off the cloths <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f her <hi>Mortality,</hi> how did all think (or at leaſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tive to keep) her <hi>alive</hi> in their Reports (while
+<pb n="19" facs="tcp:37811:13"/>others thought Death too cruel) out of that affection, which ſtill made them to kindle new <hi>hopes</hi> of her life, at every ſpark of probability!</p>
+            <p>But as the <hi>faireſh,</hi> and ſweeteſt
+<note n="*" place="margin">
+                  <hi>The Text at her Funeral,</hi> Job. 14.1, 2.</note> 
+               <hi>Flower</hi> is of a fading condition, and ſub<g ref="char:EOLhyphen"/>ject to be caſt down; ſo how ſoon (alas!) had this new born <hi>light</hi> attain'd its full aged Noon? Ah! behold, how ſoon the ſhadow-flying-days of <hi>her</hi> life conſum<g ref="char:EOLhyphen"/>ed? how quickly the blace of <hi>her</hi> ſhort <hi>Pilgri<g ref="char:EOLhyphen"/>mage</hi> expired? ſhe budded, ſhe <hi>Bloſſom'd,</hi> and was in her <hi>Prime</hi> (being like a <hi>Roſe</hi> new<g ref="char:EOLhyphen"/>ly blown and gatherd) between the <hi>ſaeventh</hi> and <hi>eighth</hi> year of her <hi>Age.</hi>
+            </p>
+            <p>But this <hi>Diamond</hi> muſt be ſet in <hi>clay,</hi> and the rareſt <hi>Jewels</hi> (like earthen Veſſels) at laſt diſſolve and turn to <hi>duſt.</hi> The beſt gold muſt have its trial, and the pureſt corn muſt firſt die before it ſpring. That ſo <hi>good</hi> a <hi>Child</hi> ſhould <hi>die,</hi> hath matter of <hi>grief</hi> in it; but that <hi>ſhe</hi> died ſo <hi>good</hi> hath ſome recompence of <hi>comfort</hi> with it: That <hi>ſhe</hi> was cut off in the <hi>Bud,</hi> and <hi>First Age</hi> of <hi>her</hi> harmleſſe Inno<g ref="char:EOLhyphen"/>cence, may ſome way ſeem to carry <hi>ſorrow</hi> with it; but that <hi>ſhe</hi> ſo much gains by her <hi>change,</hi> is only taken hence to be freed from further <hi>Miſeries,</hi> hath comfort and ſolace in it,
+<pb n="20" facs="tcp:37811:14"/>farre above our <hi>ſorrow;</hi> and though in the one our <hi>loſſe</hi> ſeems to call for <hi>Tears,</hi> yet in the other her <hi>gain</hi> alloweth us the breathing of <hi>Joy;</hi> being (by Death) only taken from the <hi>ſhadowes</hi> and falſhoods of a wretched <hi>world,</hi> to enjoy the reall <hi>Glories</hi> of Heaven; and to be enroll'd in the golden <hi>Catalogue</hi> of the <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> of her <hi>Saviours</hi> Kingdom.</p>
+            <p>In the mean time, her <hi>Grave</hi> is but a Bed of <hi>Roſes</hi> where her Reſt will be ſweet, and her <hi>Night-Cloaths,</hi> at laſt taken off. Though God pleaſe to turn us to <hi>aſhes,</hi> he will not turn us to <hi>nothing,</hi> our <hi>aſhes</hi> being only more ſacred, and God (who is the keeper of our <hi>Duſt,</hi> out of which he firſt made us) will out of them again reſtore <hi>us:</hi> Yea he who takes care of every <hi>hair</hi> of our head (being living,) doth the ſame of every <hi>grain</hi> of our aſhes [being dead] we ſhall again meet with our old <hi>Bodies,</hi> which are but for a time placed in Gods withdrawing-<hi>Room,</hi> or laid to ſleep in <hi>Lazarus</hi> Bed.</p>
+            <p>
+               <hi>She</hi> died about the approaching of the <hi>Spring,</hi> when the Birds and <hi>Flowers</hi> (which ſhe ſo much affected) ſeem'd to deck her <hi>Hearſe,</hi> and to ſing her <hi>Elegie,</hi> breathing out her pure and <hi>divine ſoul</hi> in that peaceable, calme, and com<g ref="char:EOLhyphen"/>fortable manner, as that <hi>ſhe</hi> taught the <hi>ſtanders</hi> by, no leſſe <hi>vertuouſly</hi> how to <hi>die,</hi> then <hi>ſhe</hi> had formerly how to live; leaving (as it were) a
+<pb n="21" facs="tcp:37811:14"/>maked, and diſconſolate <hi>Houſe</hi> behind <hi>her</hi> (in reſpect of her affable carriage, and loving diſ<g ref="char:EOLhyphen"/>poſition) to all that came afterwards, and found <hi>her</hi> wanting.</p>
+            <p>But though the <hi>Night</hi> of <hi>Death</hi> have over<g ref="char:EOLhyphen"/>taken <hi>her,</hi> let us not ſuffer <hi>her</hi> ſo to depart from <hi>us;</hi> but to let <hi>her</hi> always live in our <hi>Memory; ſhe</hi> was once (indeed) more pro<g ref="char:EOLhyphen"/>perly <hi>ours,</hi> but is now a <hi>Jewel</hi> ſet in <hi>Christs</hi> Diadem (who hath but taken his <hi>own</hi>) yet have we <hi>her</hi> ſtill by commemorating, imita<g ref="char:EOLhyphen"/>ting, and very highly (in <hi>love</hi> eſteeming) what we ſaw remarkable in her life.</p>
+            <p>God is pleas'd to <hi>honour</hi> them that <hi>honour</hi> him, and to continue a good Report to a good <hi>life;</hi> God looking on her (then) with the eye of his <hi>Favour,</hi> may ſhe ſtill ſo remain in our <hi>ſight;</hi> and as <hi>ſhe</hi> was the <hi>Object</hi> of our <hi>wiſhes</hi> in her <hi>life,</hi> ſo let <hi>her</hi> now be the <hi>ſubject</hi> of our <hi>practice</hi> in her <hi>Death,</hi> wherein <hi>ſhe</hi> ſtill <hi>speaks,</hi> and is a voice to her <hi>friends</hi> and <hi>Re<g ref="char:EOLhyphen"/>lations,</hi> the <hi>Memory</hi> of our departed <hi>friends</hi> being like a Legative <hi>Ring,</hi> which no<g ref="char:EOLhyphen"/>thing but <hi>Death</hi> ſhould pluck off from our Fingers.</p>
+            <p>And ſeeing, that when we droppe into our <hi>Graves,</hi> a Funeral drowns all our <hi>delights</hi> [which like <hi>Vermin</hi> run away, when the <hi>houſe</hi> is falling] may theſe (then) ſerve as a <hi>Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d-k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcheif</hi> to wipe off the <hi>Teares,</hi> and as a <hi>Bracelet</hi> to wear
+<pb n="22" facs="tcp:37811:15"/>about the <hi>Armes</hi> of all thoſe that knew, and related to this <hi>Child;</hi> to whom <hi>ſhe</hi> is ſtill ſpeak<g ref="char:EOLhyphen"/>ing, though the night of Death hath turn'd her <hi>Mid-day</hi> into <hi>Darkneſs.</hi>
+            </p>
+            <p>Neither let any wonder [my <hi>ſoul</hi> being more then uſually vaild with the <hi>Blacks</hi> of <hi>ſorrow</hi>] if I ſtrew one <hi>Flower</hi> more then ordinary on her <hi>Hearſe,</hi> or if I beſprinckle her <hi>urne</hi> with ſome <hi>Tears,</hi> and once again diſcend the <hi>vault,</hi> to touch the <hi>ſhrine</hi> of this ſo greatly <hi>beloved,</hi> and <hi>lamented Child,</hi> whom God (whoſe Almighty <hi>power</hi> is ſtill guided by a moſt wiſe <hi>providence,</hi> and tempered with a <hi>Fatherly</hi> love) was pleas'd ſo ſhortly to call after her departed <hi>Brother.</hi>
+            </p>
+            <p>Her <hi>Brother</hi> did I ſay? Ah! <hi>ſtay</hi> gentle <hi>Reader!</hi> and once more here let fall thy <hi>Tears;</hi> Ah! let me forbear a little, leaſt my <hi>greifs</hi> bleed afreſh, and I too dearly prize that <hi>name,</hi> by calling to remembrance that <hi>black night</hi> which uſhered in ſo <hi>ſad</hi> a day.</p>
+            <p>And ſhould I again <hi>begin,</hi> I ſhould but re<g ref="char:EOLhyphen"/>peat what I have written, and renew a freſh that <hi>Sorrow</hi> which may be (in part) forgot<g ref="char:EOLhyphen"/>ten, <hi>he</hi> being alſo the <hi>joy</hi> of his <hi>Parents,</hi> the <hi>Delight</hi> of his <hi>Friends,</hi> the <hi>hopes</hi> of his <hi>Country,</hi>
+               <pb n="23" facs="tcp:37811:15"/>the <hi>life</hi> of his <hi>name,</hi> and (in thoſe afore men<g ref="char:EOLhyphen"/>tioned <hi>vertues</hi> of <hi>love, meekneſſe,</hi> and <hi>ſweetneſs of diſpoſition</hi> and heavenly <hi>Inclination;</hi> and who (with his <hi>own</hi>) did even carry out <hi>ſouls</hi> away) her neareſt <hi>Parallel.</hi>
+            </p>
+            <p>There being no <hi>Diviſion</hi> which could make them <hi>two,</hi> in <hi>vertue</hi> or <hi>Amity;</hi> being <hi>both</hi> alike, as well in <hi>Perſon,</hi> as <hi>carriage: Dying</hi> both a<g ref="char:EOLhyphen"/>bout the ſame <hi>Age,</hi> of the ſame <hi>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckneſſe;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ying <hi>ſick</hi> the ſame ſpace of <hi>time,</hi> and near the ſame ſeaſon of the year, having both their
+<note n="*" place="margin">
+                  <hi>The Text at his Funeral,</hi> Pro. 14.32.</note> 
+               <hi>hope in Death.</hi>
+            </p>
+            <p>And may I not ſay (as it was once) in the words of <hi>David,</hi> 2 Sam. 1.23. <hi>They were lovely and pleaſant in their lives, and in their Death they were not divided,</hi> now ſhining (no doubt) like Natures <hi>Gemeini,</hi> in the clea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Horiſon</hi> of <hi>Heaven</hi> and happineſſe. And whoſe <hi>Tear</hi>-dew'd <hi>Hearſes</hi> [being ſent hence, with abundance of <hi>ſighs,</hi> having paſs't the various <hi>ſtormes</hi> of this world, and left their earthly Receptacles] lie <hi>buried</hi> both together in the <hi>vault</hi> at <hi>Eaſt-Ogwel</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Devon!</hi> whence (their <hi>Souls</hi> being already tranſmitted to thoſe heavenly comforts they own <hi>enjoy</hi>) their <hi>Bodies</hi> expect the re-uniting of
+<pb n="24" facs="tcp:37811:16"/>thoſe <hi>Aſhes,</hi> which (in the mean time) are carefully preſerved by that <hi>Omnipotent</hi> hand, which firſt brought them together, and will a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laſt give them a bleſſed and happy meeting to all <hi>Eternity.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
